@@ -1,6 +1,6 @@
 # Quillbot for desktop
 
-This is a simple app that makes Quillbot live in your menubar.
+This is a simple app that makes Quillbot live in your menubar and got premium access.
 
 You can use Cmd+Shift+G (Mac) or Ctrl+Shift+G (Win) to quickly open it from anywhere.
 
