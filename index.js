@@ -20,7 +20,7 @@ const image = nativeImage.createFromPath(
 
 app.on("ready", () => {
   const tray = new Tray(image);
-  session.defaultSession.loadExtension(path.join(__dirname, 'v3.0.1'))
+  session.defaultSession.loadExtension(path.join(__dirname, 'v3.0.2'))
   const mb = menubar({
     browserWindow: {
       icon: image,

@@ -1,7 +1,7 @@
 {
   "name": "quillbot-crack-mac",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quillbot, living in your menubar.",
   "main": "index.js",
   "scripts": {
     "start": "electron-forge start",
